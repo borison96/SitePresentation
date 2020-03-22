@@ -1,0 +1,50 @@
+.main-container{
+  background-color: rgba(0, 0, 0, 0.8);
+  top: 200px;
+  z-index: 3;
+  position: relative;
+  max-width: 80%;
+  margin: auto;
+  margin-bottom: 250px;
+}
+
+@media (max-width: 1200px) {
+  #main-text-last{
+    color: white;
+    text-align: left;
+  }
+}
+
+#main-text-first{
+  color: white;
+  font-size: 1.2em !important;
+}
+
+#main-text-midle{
+  color: red;
+  font-weight: bold;
+  font-size: 2.2em !important;
+  text-align: right;
+}
+
+#main-text-last{
+  color: white;
+  font-size: 1.5em !important;
+  text-align: center;
+}
+
+.text-body{
+  color: white;
+  font-size: 1.2em !important;
+}
+
+.body-container{
+  padding: 30px;
+  margin: 40px;
+}
+
+.text-bottom{
+  color: white;
+  font-size: 1.2em !important;
+}
+

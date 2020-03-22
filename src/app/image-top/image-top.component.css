@@ -1,0 +1,9 @@
+.image-positon {
+  top:0px;
+  z-index:1;
+}
+
+.image-fixed{
+  height: 100%;
+  position: fixed;
+}
